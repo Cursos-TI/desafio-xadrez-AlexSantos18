@@ -23,8 +23,7 @@ int main() {
     printf("\n");
 
     // Segundo loop ultilizado foi o for
-    // a variavel i do for nao interfere na variavel global
-
+   
 
     printf("Jogador seu Bispo sera movimentado 5 casas na diagonal para direita e acima \n");
     
